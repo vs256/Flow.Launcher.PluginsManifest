@@ -46,6 +46,11 @@ Flow downloads the manifest (plugins.json) file from various CDN providers, whic
 
 While the plugin has not yet appeared in the store, you and your users can manually install it using `pm install <url/local path>`.
 
+## How to remove your plugin
+
+1. Remove the file named `${name}-${uuid}.json` of your corresponding plugin in the [plugins](https://github.com/Flow-Launcher/Flow.Launcher.PluginsManifest/tree/main/plugins) directory.
+2. Submit a pull request.
+
 ## Plugin updates
 
 Every three hours the *CI* in this repository will check for new updates from plugins and automatically update them to the latest version.

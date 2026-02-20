@@ -48,7 +48,7 @@ While the plugin has not yet appeared in the store, you and your users can manua
 
 ## How to remove your plugin
 
-1. Remove the file named `${name}-${uuid}.json` of your corresponding plugin in the [plugins](https://github.com/Flow-Launcher/Flow.Launcher.PluginsManifest/tree/main/plugins) directory.
+1. Remove the `${name}-${uuid}.json` file for your plugin from the [plugins](https://github.com/Flow-Launcher/Flow.Launcher.PluginsManifest/tree/main/plugins) directory.
 2. Submit a pull request.
 
 ## Plugin updates

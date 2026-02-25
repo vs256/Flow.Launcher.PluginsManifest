@@ -9,5 +9,7 @@
     "IcoPath": "https://cdn.jsdelivr.net/gh/BossFlap/flow-command-vault@master/Images/icon.png",
     "UrlSourceCode": "https://github.com/BossFlap/flow-command-vault",
     "UrlDownload": "https://github.com/BossFlap/flow-command-vault/releases/download/v1.1.2/CommandVault-1.1.2.zip",
-    "LatestReleaseDate": "2026-02-24T16:00:47Z"
+    "LatestReleaseDate": "2026-02-24T16:00:47Z",
+    "Tested": true,
+    "DateAdded": "2026-02-25T02:38:06Z"
 }

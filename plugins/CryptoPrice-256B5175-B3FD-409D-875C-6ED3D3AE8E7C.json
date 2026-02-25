@@ -4,10 +4,10 @@
   "Name": "CryptoPrice",
   "Description": "Grab the latest value of any cryptocurrency coin.",
   "Author": "vs256",
-  "Version": "1.1.2",
+  "Version": "1.2.0",
   "Language": "javascript",
   "Website": "https://github.com/vs256/crypto-price",
   "UrlSourceCode": "https://github.com/vs256/crypto-price",
-  "UrlDownload": "https://github.com/vs256/crypto-price/releases/download/v1.1.2/CryptoPrice.zip",
+  "UrlDownload": "https://github.com/vs256/crypto-price/releases/download/v1.2.0/CryptoPrice.zip",
   "IcoPath": "https://cdn.jsdelivr.net/gh/vs256/crypto-price@main/icons/app.svg"
 }

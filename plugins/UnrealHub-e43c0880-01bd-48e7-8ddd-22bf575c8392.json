@@ -9,5 +9,7 @@
     "UrlDownload": "https://github.com/Sami-Uysal/Flow.Launcher.Plugin.UnrealHub/releases/download/v1.1.0/Flow.Launcher.Plugin.UnrealHub.zip",
     "UrlSourceCode": "https://github.com/Sami-Uysal/Flow.Launcher.Plugin.UnrealHub/tree/main",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Sami-Uysal/Flow.Launcher.Plugin.UnrealHub@main/Images/app.png",
-    "LatestReleaseDate": "2026-02-25T05:08:25Z"
+    "LatestReleaseDate": "2026-02-25T05:08:25Z",
+    "Tested": true,
+    "DateAdded": "2026-02-25T07:08:18Z"
 }
